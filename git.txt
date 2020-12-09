@@ -37,7 +37,7 @@ https://github.com/kochetkovvitt/pyda-17_homeworks.git
 git remote add origin https://github.com/kochetkovvitt/pyda-17_homeworks.git
 git branch -M main
 git push -u origin main
-
+----------------------------------
 
 
 
