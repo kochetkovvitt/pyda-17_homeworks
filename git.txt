@@ -1,0 +1,14 @@
+﻿git config --global user.name "Kochetkov Vitaliy"
+git config --global user.email "kochetkov.vitt@gmail.com"
+git config --global core.editor nano
+
+git init
+
+git add *
+git add test.txt
+
+git commit -a -m "message"
+git status
+git show 5e0c1
+git log
+
